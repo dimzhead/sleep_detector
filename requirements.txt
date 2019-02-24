@@ -1,0 +1,11 @@
+tensorflow
+numpy==1.16.1
+playsound
+opencv-python
+subprocess.run
+pillow 
+lxml 
+Cython 
+jupyter 
+matplotlib 
+pandas 
